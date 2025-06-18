@@ -1,21 +1,21 @@
-# Pharmacy Management System
+# :pill:Pharmacy Management System
 
 This is a **web-based Pharmacy Management System** built using the **MERN stack** (MongoDB, Express, React, Node.js). It enables online drug ordering and real-time order tracking. The system also includes inventory control, supplier coordination, and automated restocking alerts, providing a secure, scalable, and modular solution to enhance efficiency and customer satisfaction.
 
-## Table of Contents
+## :open_book:Table of Contents
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Frontend Setup](#frontend-setup)
 - [Backend Setup](#backend-setup)
 - [Technologies Used](#technologies-used)
 
-## Prerequisites
+## :bookmark:Prerequisites
 Ensure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/) (v16 or higher recommended)
 - [npm](https://www.npmjs.com/) (comes bundled with Node.js)
 - [MongoDB](https://www.mongodb.com/try/download/community) (for local development, or use MongoDB Atlas for cloud-based hosting)
 
-## Installation
+## :bookmark:Installation
 
 Clone the repository:
 ```bash
@@ -23,7 +23,7 @@ git clone https://github.com/chamindu12/MedCare.git
 cd Medcare
 ```
 ---
-## Frontend Setup
+## :bookmark:Frontend Setup
 
 1. Navigate to the frontend directory:
  ```bash
@@ -40,7 +40,7 @@ npm run dev
 ```
 :green_circle:Frontend will start usually on http://localhost:3000.
 
-## Backend Setup
+## :bookmark:Backend Setup
 
 1.Navigate to the backend directory:
 ```bash
@@ -63,7 +63,7 @@ npm run dev
 ```
 :green_circle:The backend server will start on http://localhost:5000
 
-## Technologies Used
+## :bookmark:Technologies Used
 
 ### :white_check_mark:Frontend:
 - React                                                </br>
